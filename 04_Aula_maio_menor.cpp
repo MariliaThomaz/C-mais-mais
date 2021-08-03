@@ -14,7 +14,7 @@ int main()
         cin >> numero2;
         //1;51;08
 
-        if
+        
 
     return 0;
 }
