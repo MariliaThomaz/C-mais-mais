@@ -35,4 +35,5 @@ int nume1 = 0, nume2 = 0;//Toda ves que voce  cria varivel  iquando a  0 poisa t
     std :: cout <<"A soma "<<(nume1+ nume2);//aqui estou  fazendo uma soma direta sem cria  uma varivel alsilar 
     // para exibir  resulatado  da soma << (nume1 + nume2)
     return 0;// quando eu retono   
+    //bola
 }
