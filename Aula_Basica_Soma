@@ -1,6 +1,4 @@
 #include<iostream> // aqui  esmos falnado  que imamnado para com putador  que  trabanhandop com C++
-
-#include<iostream> // aqui  esmos falnado  que imamnado para com putador  que  trabanhandop com C++
 // Para  ineficar  que é C++ a Biblioteca que é indentifica a  progamação c+++
 // modo para enterder é biblioteteca  mas  modo  correto é  chamdo de Reder (Rider)
 // Quer dizer #include<iostream> é Cabesario
@@ -43,4 +41,3 @@ int nume1 = 0, nume2 = 0;//Toda ves que voce  cria varivel  iquando a  0 poisa t
     // para exibir  resulatado  da soma << (nume1 + nume2)
     return 0;// quando eu retono   
 }
- 
