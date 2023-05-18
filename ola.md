@@ -8,3 +8,5 @@
 * aprenado mexer no git
 
 * comando  git pull
+
+* comando novo git fetch
