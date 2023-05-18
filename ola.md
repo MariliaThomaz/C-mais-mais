@@ -6,3 +6,5 @@
 
 ##mais um titiloa2
 * aprenado mexer no git
+
+* comando  git pull
