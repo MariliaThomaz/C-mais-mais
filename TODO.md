@@ -4,3 +4,5 @@
 [ ]bobobo
 
 [ ]  ta  loco 
+
+[ ] aprendo noco comando 
