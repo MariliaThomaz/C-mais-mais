@@ -2,3 +2,5 @@
 -[ ] texto ta loco
 
 [ ]bobobo
+
+[ ]  ta  loco 
